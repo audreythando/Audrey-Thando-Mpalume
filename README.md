@@ -5,7 +5,7 @@
 
 - 👯 I’m looking to collaborate on **any interesting open source projects**
 
-- 👨‍💻 All of my projects are available at [https://audreythando-portfolio.netlify.app/](https://audreythando-portfolio.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://audreythando-portfolio.netlify.app/](https://portfolio-thandoaudrey.vercel.app/)
 
 - 📫 How to reach me **audreythando@gmail.com**
 
