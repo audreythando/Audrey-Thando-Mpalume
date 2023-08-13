@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Audrey Thando</h1>
 <h3 align="center">A passionate frontend developer from South Africa</h3>
 
-- 🌱 I’m currently learning **Next.js and React Native**
 
 - 👯 I’m looking to collaborate on **any interesting open source projects**
 
