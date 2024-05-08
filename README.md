@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Audrey Thando Mpalume</h1>
-<h3 align="center">A passionate frontend developer from South Africa</h3>
+<h3 align="center">A passionate frontend developer from South Africa specializing mostly in React. I am passionate about programming and learning all things tech that are relevant to the industry</h3>
 
 - 🌱 I’m currently learning **Angular, AWS , AI**
 
